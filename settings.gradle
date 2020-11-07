@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name='想要成为XXX吗？'
